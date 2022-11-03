@@ -2,7 +2,7 @@
 	<img alt="App Portfolio" src="./src/assets/print-form.png" widht="80%">
 </p>
 
-## Meu projeto
+## Meu projeto - Formulário padrão mult-step
 
 Projeto inicial é apenas montar um formulário de multiplos passos para resolver uma necessidade pontual no trabalho.
 
